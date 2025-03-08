@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Mar  4 10:32:08 2025
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : PWM
+Top-level Entity Name : PWM
+Family : MAX 10
+Total logic elements : 693
+    Total combinational functions : 687
+    Dedicated logic registers : 122
+Total registers : 122
+Total pins : 5
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 4
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
